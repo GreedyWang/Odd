@@ -11,7 +11,7 @@ import java.util.List;
 
 public class VoidVisitorComplete {
 
-    private static final String FILE_PATH = "/Users/wangyongmin/workspace/my_code/my.test2/mydaily/src/main/java/codegen/study/ReversePolishNotation.java";
+    private static final String FILE_PATH = "~/workspace/my_code/my.test2/mydaily/src/main/java/codegen/study/ReversePolishNotation.java";
 
     public static void main(String[] args) throws Exception {
 
