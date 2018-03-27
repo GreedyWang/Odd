@@ -1,4 +1,4 @@
-package codegen;
+package lapd.k.codegen;
 
 import java.lang.reflect.Field;
 import java.util.HashMap;

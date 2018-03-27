@@ -1,4 +1,4 @@
-package codegen.study;
+package lapd.k.codegen.study;
 
 import java.util.Stack;
 import java.util.stream.Stream;

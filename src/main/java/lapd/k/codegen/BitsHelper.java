@@ -1,4 +1,4 @@
-package codegen;
+package lapd.k.codegen;
 
 import java.nio.ByteBuffer;
 import java.util.Arrays;

@@ -1,4 +1,4 @@
-package codegen;
+package lapd.k.codegen;
 
 import com.github.javaparser.ast.CompilationUnit;
 import com.github.javaparser.ast.ImportDeclaration;

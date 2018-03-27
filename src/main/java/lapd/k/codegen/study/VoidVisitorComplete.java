@@ -1,4 +1,4 @@
-package codegen.study;
+package lapd.k.codegen.study;
 import com.github.javaparser.JavaParser;
 import com.github.javaparser.ast.CompilationUnit;
 import com.github.javaparser.ast.body.MethodDeclaration;

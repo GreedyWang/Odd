@@ -5,3 +5,7 @@
 
 ## ListenableFuture
 - 自制ListenableFuture
+
+## log4j2
+- gc-free
+- JRF使用
