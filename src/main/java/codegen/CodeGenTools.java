@@ -9,21 +9,14 @@ import com.github.javaparser.ast.body.MethodDeclaration;
 import com.github.javaparser.ast.body.Parameter;
 import com.github.javaparser.ast.expr.*;
 import com.github.javaparser.ast.type.*;
-import org.codehaus.janino.Java;
 
 import javax.tools.JavaCompiler;
 import javax.tools.ToolProvider;
 import java.io.File;
 import java.io.IOException;
-import java.io.InputStream;
-import java.net.MalformedURLException;
-import java.net.URL;
-import java.net.URLClassLoader;
 import java.util.*;
 
 import static com.github.javaparser.ast.Modifier.PRIVATE;
-import static com.github.javaparser.ast.Modifier.PUBLIC;
-import static com.github.javaparser.ast.Modifier.STATIC;
 
 
 //import com.github.javaparser.ASTHelper;
