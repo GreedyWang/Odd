@@ -9,3 +9,6 @@
 ## log4j2
 - gc-free
 - JRF使用
+
+## juc
+- 非阻塞算法
