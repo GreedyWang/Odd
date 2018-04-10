@@ -38,7 +38,7 @@ public class CodeGenTools {
         jarPrefix = classPath.substring(0, classPath.lastIndexOf("classes")) + File.separator + "lib" + File.separator;
         //hard code for dependency
         //todo: hard code for dependency lib path
-        jarAbsolutePath = "/Users/wangyongmin/.m2/repository/org/projectlombok/lombok/1.16.18/lombok-1.16.18.jar";
+        jarAbsolutePath = "~/.m2/repository/org/projectlombok/lombok/1.16.18/lombok-1.16.18.jar";
 //                new StringBuilder().append(jarPrefix)
 //                .append("hibernate-core-4.2.0.Final.jar;")
 //                .append(jarPrefix).append("hibernate-jpa-2.0-api-1.0.1.Final.jar;")
